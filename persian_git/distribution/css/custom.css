@@ -38,10 +38,10 @@ justify-content: center;
 
 }
 .kali_btn_more:hover .kali__hover{
-    margin-left: 6px;
+    margin-right: 6px;
 }
 .kali_btn_more .kali__hover{
-    margin:auto 0px;margin-top:13px;border:1px solid #0d6efd;border-top: none;border-left: none;height: 20px;width: 20px;transform: rotateZ(-45deg)}
+    margin:auto 0px;margin-top:13px;border:1px solid #0d6efd;border-top: none;border-left: none;height: 20px;width: 20px;transform: rotateZ(-225deg)}
 .kali_btn_more .kali__hover{
 transition: all 0.71s;}
 .card{
@@ -161,4 +161,12 @@ border:none;
 }
 body{
     box-shadow: 1px 8px 20px rgba(170, 170, 170, 0.8);
+
+}
+@font-face {
+    font-family: benas;
+    src: url("../IranNastaliq.ttf");
+}
+*,h1,h2{
+    font-family: benas, serif;
 }
