@@ -8,7 +8,10 @@ html, body {
     color: #1f4568;
 }
 
-
+a{
+    text-decoration: none;
+    color:#000;
+}
 
 /* SVG */
 

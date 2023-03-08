@@ -202,7 +202,10 @@ html, body {
     font-size: 20px;
     margin-left: 3px;
 }
-
+a{
+    text-decoration: none;
+    color:#000;
+}
 @keyframes fade-kalli-logo {
     0% {
         opacity: 1;
