@@ -1413,89 +1413,89 @@ html, body {
     left: 40%;
     transform-origin: left bottom;
 }
-.__svg:hover #checklist input[name="r1"]::before {
+.ood:hover .__svg #checklist input[name="r1"]::before {
     -webkit-animation: check-01 0.4s ease forwards;
     animation: check-01 0.4s ease forwards;
 }
-.__svg:hover #checklist input[name="r1"]::after {
+.ood:hover .__svg #checklist input[name="r1"]::after {
     -webkit-animation: check-02 0.4s ease forwards;
     animation: check-02 0.4s ease forwards;
 }
-.__svg:hover #checklist input[name="r1"] + label {
+.ood:hover .__svg #checklist input[name="r1"] + label {
     color: var(--disabled);
     -webkit-animation: move 0.3s ease 0.1s forwards;
     animation: move 0.3s ease 0.1s forwards;
 }
-.__svg:hover #checklist input[name="r1"] + label::before {
+.ood:hover .__svg #checklist input[name="r1"] + label::before {
     background: var(--disabled);
     -webkit-animation: slice 0.4s ease forwards;
     animation: slice 0.4s ease forwards;
 }
-.__svg:hover #checklist input[name="r1"] + label::after {
+.ood:hover .__svg #checklist input[name="r1"] + label::after {
     -webkit-animation: firework 0.5s ease forwards 0.1s;
     animation: firework 0.5s ease forwards 0.1s;
 }
 /*number 2 input am1ral1 */
-.__svg:hover #checklist input[name="r2"]::before {
+.ood:hover .__svg #checklist input[name="r2"]::before {
     -webkit-animation: check-01 0.4s ease forwards;
     animation: check-01 0.4s ease forwards;
     animation-delay: 0.4s;
     -webkit-animation-delay: 0.4s;
 }
-.__svg:hover #checklist input[name="r2"]::after {
+.ood:hover .__svg #checklist input[name="r2"]::after {
     -webkit-animation: check-02 0.4s ease forwards;
     animation: check-02 0.4s ease forwards;
     animation-delay: 0.4s;
     -webkit-animation-delay: 0.4s;
 }
-.__svg:hover #checklist input[name="r2"] + label {
+.ood:hover .__svg #checklist input[name="r2"] + label {
     color: var(--disabled);
     -webkit-animation: move 0.3s ease 0.1s forwards;
     animation: move 0.3s ease 0.1s forwards;
     animation-delay: 0.3s;
     -webkit-animation-delay: 0.3s;
 }
-.__svg:hover #checklist input[name="r2"] + label::before {
+.ood:hover .__svg #checklist input[name="r2"] + label::before {
     background: var(--disabled);
     -webkit-animation: slice 0.4s ease forwards;
     animation: slice 0.4s ease forwards;
     animation-delay: 0.4s;
     -webkit-animation-delay: 0.4s;
 }
-.__svg:hover #checklist input[name="r2"] + label::after {
+.ood:hover .__svg #checklist input[name="r2"] + label::after {
     -webkit-animation: firework 0.5s ease forwards 0.1s;
     animation: firework 0.5s ease forwards 0.1s;
     animation-delay: 0.5s;
     -webkit-animation-delay: 0.5s;
 }
 /*input3 am1ral1*/
-.__svg:hover #checklist input[name="r3"]::before {
+.ood:hover .__svg #checklist input[name="r3"]::before {
     -webkit-animation: check-01 0.4s ease forwards;
     animation: check-01 0.4s ease forwards;
     animation-delay: 0.8s;
     -webkit-animation-delay: 0.8s;
 }
-.__svg:hover #checklist input[name="r3"]::after {
+.ood:hover .__svg #checklist input[name="r3"]::after {
     -webkit-animation: check-02 0.4s ease forwards;
     animation: check-02 0.4s ease forwards;
     animation-delay: 0.8s;
     -webkit-animation-delay: 0.8s;
 }
-.__svg:hover #checklist input[name="r3"] + label {
+.ood:hover .__svg #checklist input[name="r3"] + label {
     color: var(--disabled);
     -webkit-animation: move 0.3s ease 0.1s forwards;
     animation: move 0.3s ease 0.1s forwards;
     animation-delay: 0.6s;
     -webkit-animation-delay: 0.6s;
 }
-.__svg:hover #checklist input[name="r3"] + label::before {
+.ood:hover .__svg #checklist input[name="r3"] + label::before {
     background: var(--disabled);
     -webkit-animation: slice 0.4s ease forwards;
     animation: slice 0.4s ease forwards;
     animation-delay: 0.8s;
     -webkit-animation-delay: 0.8s;
 }
-.__svg:hover #checklist input[name="r3"] + label::after {
+.ood:hover .__svg #checklist input[name="r3"] + label::after {
     -webkit-animation: firework2 0.5s ease forwards 0.1s;
     animation: firework2 0.5s ease forwards 0.1s;
     animation-delay: 1s;
