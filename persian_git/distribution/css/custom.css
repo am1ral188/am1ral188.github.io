@@ -89,19 +89,7 @@ body{
     height:80px;
 
 }
-@media screen and (max-width: 750px) {
-    .head__img{
-        width: 60px;
-        height: 60px;
-    }
-    .footerr{
-        margin-top: 0;
-        position: relative;
-    }
-    body{
-        margin-bottom: 0;
-    }
-}
+
 .h5{
     color:#aaaaaa;
 }
@@ -178,3 +166,18 @@ body{
 
 
 
+@media screen and (max-width: 750px) {
+    .head__img{
+        width: 60px;
+        height: 60px;
+    }
+    .footerr{
+        margin-top: 0;
+        position: relative;
+        z-index:1;
+    }
+    body{
+        margin-bottom: 0;
+        z-index:1;
+    }
+}
