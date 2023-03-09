@@ -62,7 +62,20 @@ body{
     z-index: 400;
     margin-bottom: 360px;
 }
+.footerr{
+    /*position: relative;*/
+    width: 100vw;
+    background-image: url("../img/img.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    -webkit-backdrop-filter: blur(126px);
+    padding-top: 0;
+    position: fixed;
+    bottom: 0;
+    z-index: -300;
+    margin-top:600px
 
+}
 
 .overlayy{
     /*position: absolute;*/
@@ -165,17 +178,3 @@ body{
 
 
 
-.footerr{
-    /*position: relative;*/
-    width: 100vw;
-    background-image: url("../img/img.png");
-    background-size:cover;
-    background-repeat: no-repeat;
-    -webkit-backdrop-filter: blur(126px);
-    padding-top: 0;
-    position: fixed;
-    bottom: 0;
-    z-index: -300;
-    margin-top:600px
-
-}
