@@ -1959,7 +1959,7 @@ background: #2727e5;
 @media screen and (max-width:900px)  {
     .foot{
         height:min-content;
-        background-image: url("https://unk9vvn.com/wp-content/uploads/2022/09/black-on-black.jpg");
+        background-image: url("../../../img.png");
         background-size: cover;
         background-repeat: no-repeat;
         position: relative;
