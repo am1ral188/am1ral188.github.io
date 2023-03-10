@@ -61,7 +61,7 @@ body{
 .footerr{
     /*position: relative;*/
     width: 100vw;
-    background-image: url("https://unk9vvn.com/wp-content/uploads/2022/09/black-on-black.jpg");
+    background-image: url("../../../img.png");
     background-size:cover;
     background-repeat: no-repeat;
     -webkit-backdrop-filter: blur(126px);
