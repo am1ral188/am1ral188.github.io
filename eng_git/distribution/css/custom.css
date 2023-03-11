@@ -12,12 +12,13 @@ body{
 }
 .d_cont{
     min-height:80px;
-    /*display:none;*/
-    visibility: hidden;
+    display:none;
+    /*visibility: hidden;*/
 }
 .dr:hover .d_cont{
-visibility: visible;
+/*visibility: visible;*/
 background: red;
+    display:block;
 }
 .wrapper{
     width:99%;
