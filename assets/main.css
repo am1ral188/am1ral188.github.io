@@ -1959,6 +1959,9 @@ background: #2727e5;
 .m_t_-5{
     /*margin-*/
 }
+.header__img{
+    width:60px;
+}
 @media screen and (max-width:900px)  {
     .foot{
         height:min-content;
