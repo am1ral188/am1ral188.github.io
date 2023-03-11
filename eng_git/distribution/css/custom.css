@@ -11,7 +11,7 @@ body{
 
 }
 .d_cont{
-    min-height:80px;
+    /*min-height:80px;*/
     display:none;
     /*visibility: hidden;*/
 }
