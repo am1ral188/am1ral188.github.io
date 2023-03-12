@@ -1,0 +1,15 @@
+@font-face {
+    src:url("Space_Bd_BT_Bold.ttf");
+    font-family: space_;
+}
+
+@font-face {
+    src:url("KalamehWebFaNum-Bold.woff");
+    font-family: space__;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: space__;
+}
+.unk9vvn{
+    font-family: space_;
+}
