@@ -79,6 +79,9 @@ nav{
     margin-top:600px
 
 }
+*{
+    letter-spacing: normal;
+}
 .d_cont{
     padding: 5px;
     display:none;
